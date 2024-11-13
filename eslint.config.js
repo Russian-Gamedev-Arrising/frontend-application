@@ -59,14 +59,12 @@ export default [
             "featureSliced/public-api": "error",
         },
         settings: {
-            settings: {
-                "import/resolver": {
-                    typescript: true,
-                    node: true,
-                },
-                react: {
-                    version: "detect",
-                },
+            "import/resolver": {
+                typescript: true,
+                node: true,
+            },
+            react: {
+                version: "detect",
             },
         },
     },
