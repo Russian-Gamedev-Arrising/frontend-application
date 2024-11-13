@@ -28,6 +28,7 @@ export default [
     eslintConfigPrettier,
     pluginReact.configs.flat.recommended,
     { files: ["**/*.{js,mjs,cjs,ts,jsx,tsx}"] },
+    { ignores: ["node_modules", "dist"] },
     {
         plugins: {
             react: pluginReact,
