@@ -1,0 +1,6 @@
+{
+    "prettier.enable": true,
+    "prettier.ignorePath": ".prettierignore",
+    "prettier.requireConfig": true,
+    "eslint.enable": true
+}
