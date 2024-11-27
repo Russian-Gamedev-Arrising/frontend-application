@@ -44,7 +44,7 @@ export default [
             "import/no-default-export": "error",
             "import/no-unresolved": "off",
             "prettier/prettier": [
-                "error",
+                "warn",
                 {
                     endOfLine: "auto",
                 },

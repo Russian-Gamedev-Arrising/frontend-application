@@ -19,13 +19,13 @@ Here is list of all technologies used in project:
 
 1. ESLint plugin
 2. Prettier plugin
+3. Tailwind CSS IntelliSense
 
 ## IDE plugin suggestions (unnescesarry, but helps a lot)
 
 1. Path Intelisense (built-in in most of IDE)
-2. SCSS Intelisense 
-> adding intelisence specially for scss, allows to see suggestions for mixins or properties
-
+2. SCSS Intelisense
+    > adding intelisence specially for scss, allows to see suggestions for mixins or properties
 
 ## NODE scripts
 
